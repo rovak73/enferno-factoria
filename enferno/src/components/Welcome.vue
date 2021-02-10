@@ -5,7 +5,7 @@
 
         <h3>Welcome!</h3>
 
-        <p>Congratulations! Enferno framework has been installed successfully. </p>
+        <p>Felicitaciones! Enferno framework has been installed successfully. </p>
 
 
         <p>

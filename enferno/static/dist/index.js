@@ -12461,14 +12461,14 @@ var _default = {
   props: []
 };
 exports.default = _default;
-        var $2e456f = exports.default || module.exports;
+        var $a5ec2c = exports.default || module.exports;
       
-      if (typeof $2e456f === 'function') {
-        $2e456f = $2e456f.options;
+      if (typeof $a5ec2c === 'function') {
+        $a5ec2c = $a5ec2c.options;
       }
     
         /* template */
-        Object.assign($2e456f, (function () {
+        Object.assign($a5ec2c, (function () {
           var render = function() {
   var _vm = this
   var _h = _vm.$createElement
@@ -12488,7 +12488,7 @@ exports.default = _default;
       _vm._v(" "),
       _c("p", [
         _vm._v(
-          "Congratulations! Enferno framework has been installed successfully. "
+          "Felicitaciones! Enferno framework has been installed successfully. "
         )
       ]),
       _vm._v(" "),
@@ -12527,9 +12527,9 @@ render._withStripped = true
         if (api.compatible) {
           module.hot.accept();
           if (!module.hot.data) {
-            api.createRecord('$2e456f', $2e456f);
+            api.createRecord('$a5ec2c', $a5ec2c);
           } else {
-            api.reload('$2e456f', $2e456f);
+            api.reload('$a5ec2c', $a5ec2c);
           }
         }
 
@@ -12583,7 +12583,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "59747" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "34785" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
